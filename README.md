@@ -3,7 +3,7 @@
 React - Redux로 To Do List 만들기 😉
 <br>
 <br>
-![project_img](./img/todo.png)
+![project_img](./img/todoimg.png)
 <br>
 <br>
 ![project_img](./img/detail.png)
