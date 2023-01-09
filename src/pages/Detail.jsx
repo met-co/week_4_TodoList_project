@@ -11,7 +11,6 @@ function Detail() {
   
 
   const todo = useSelector((state) => state.todos.todo);
-  console.log(todo)
 
 
   const dispatch = useDispatch();

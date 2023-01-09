@@ -18,7 +18,6 @@ const Input = () => {
       content: content,
       isDone: false,
     };
-    console.log(newTodo, "newtodo");
     dispatch(addTodo(newTodo));
     setTitle("");
     setContent("");

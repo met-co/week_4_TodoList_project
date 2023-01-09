@@ -11,7 +11,6 @@ let id = 2;
 // Action Creator
 // todo 추가하기
 export const addTodo = (payload) => {
-  console.log({ ...payload }, "payload");
   return {
     type: ADD_TODO,
     payload: {
@@ -69,7 +68,6 @@ const initialState = {
 const todos = (state = initialState, action) => {
   switch (action.type) {
     case ADD_TODO: {
-      console.log({ ...state }, "state");
       return {
         ...state,
         todoData: [...state.todoData, action.payload],
