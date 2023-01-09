@@ -38,22 +38,19 @@ todos 모듈은 `Ducks 패턴`으로 구현합니다.
 # 사용한 Hook
 ### React Hook
 * **useState**
-<br>
 * **useEffect**
 <br>
 
 
 ### Redux Hook
 * **useDispatch**
- <br>
 * **useSelector**
-
+<br>
 
 ### React Router DOM
 * **useNavigate**
- <br>
 * **useParams**
-
+<br>
 
 <br>
 <br>
