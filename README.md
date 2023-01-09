@@ -3,7 +3,7 @@
 React - Redux로 To Do List 만들기 😉
 <br>
 <br>
-![project_img](./img/todo.png)
+![project_img](./img/todoimg.png)
 <br>
 <br>
 ![project_img](./img/detail.png)
@@ -29,6 +29,8 @@ todos 모듈은 `Ducks 패턴`으로 구현합니다.
 - Todo 추가 하기
 - Todo 삭제 하기
 - Todo 완료 상태 변경하기 (완료 ↔ 진행중)
+- 메인 페이지 
+- 상세 페이지 (현재 Todo의 ID, 제목, 내용, 메인 페이지로 이동)
 
 <br>
 <br>
